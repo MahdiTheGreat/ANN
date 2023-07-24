@@ -37,7 +37,8 @@ As a result, in the implementation of the neural network for the weights between
 
 The learning process of the neural network means minimizing the Cost function:
 
-![image](https://github.com/MahdiTheGreat/ANN/assets/47212121/018f5cb8-f456-4ffb-89f5-c48a8cf589f9)
+![image](https://github.com/MahdiTheGreat/ANN/assets/47212121/9a16fe04-20f2-4017-adba-85f7933ef065)
+
 
 This is done with the help of the Gradient Descent method, which by obtaining the partial derivatives of the Cost function with respect to all parameters (that is, the gradient), We make the desired changes to the parameters:
 
