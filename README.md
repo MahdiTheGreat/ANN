@@ -2,7 +2,7 @@
 One of the applications of neural networks is Pattern Recognition.
 In this project, we try to recognize handwritten digits via a neural network. This is one of most
 classic and famous image processing problems that different people use different methods like
-K-Nearest Neighbor, SVM, and different neural network architectures". Here we want to solve this problem with the help of Feedforward Fully Connected neural networks.
+K-Nearest Neighbor, SVM, and different neural network architectures. Here we want to solve this problem with the help of Feedforward Fully Connected neural networks.
 
 In this project, we receive black and white images as input, in which a digit is written in each one. Our model must recognize what number is depicted in every image.
 
